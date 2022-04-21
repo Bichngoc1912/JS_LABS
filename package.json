@@ -1,0 +1,29 @@
+{
+  "name": "lab_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bichngoc1912/JS_LABS.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Bich Ngoc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bichngoc1912/JS_LABS/issues"
+  },
+  "homepage": "https://github.com/Bichngoc1912/JS_LABS#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "@types/jest": "^27.4.1",
+    "babel-jest": "^27.5.1",
+    "jest": "27.5.1"
+  }
+}
